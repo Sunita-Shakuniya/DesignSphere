@@ -1,4 +1,4 @@
-# <span style="color: #2c3e50;">My Portfolio Website</span>
+# <span style="color: #2c3e50;">Design Sphere : Interior Design Company Website</span>
 
 <p align="center">
   <img src="https://example.com/logo.png" alt="Portfolio Logo" width="200">

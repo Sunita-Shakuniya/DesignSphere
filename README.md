@@ -34,7 +34,7 @@ Additionally, working on this project has improved my editing skills with tools 
   <li>About Us: </li>
     <p>Showcases DS’s mission and vision with detailed descriptions and images, highlighting our trusted partners.</p>
     <p align="center">
-      <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
+      <img src="[https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true](https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/Homepage.png?raw=true)" alt="Home page SS" width="200">
     </p>
 
   <li>Projects:</li>

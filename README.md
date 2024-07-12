@@ -28,25 +28,34 @@ Additionally, working on this project has improved my editing skills with tools 
   <li> Home Page:</li>
     <p> Features an engaging introduction and navigation links to different sections.</p>
     <p align="center">
-    <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
+    <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Homepage.png" alt="Home page SS" width="200">
     </p>
 
   <li>About Us: </li>
     <p>Showcases DS’s mission and vision with detailed descriptions and images, highlighting our trusted partners.</p>
     <p align="center">
-      <img src="[https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true](https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/Homepage.png?raw=true)" alt="Home page SS" width="200">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/About.png" alt="About Section SS" width="200">
+    </p>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Truster%20partners.png" alt="Trusted Partners SS" width="200">
     </p>
 
   <li>Projects:</li>
     <p>Showcases the company's latest completed projects with detailed descriptions and images.</p>
     <p align="center">
-      <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Project1.png" alt="Project Section SS" width="200">
+    </p>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/project2.png" alt="Project Section SS" width="200">
+    </p>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Project3.png" alt="Project Section SS" width="200">
     </p>
 
   <li>Contact form:</li>
     <p>Provides a form for visitors to get in touch with me directly.</p>
     <p align="center">
-      <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
+      <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Contact.png" alt="Portfolio Logo" width="200">
     </p>
 
 </ul>

@@ -4,7 +4,7 @@
   <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
 </p>
 
-## <span style="color: #27ae60;">Introduction</span>
+## <span style="color:  rgb(58 122 147);">Introduction</span>
 
 <p style="font-size: 18px;">
  Welcome to my first web development portfolio project! I have designed a simple, easy-to-navigate webpage with the end user in mind, ensuring it is user-friendly. This project showcases my work, projects, and skills in graphic design and web development that I developed during the creation of this website. It is built using HTML, CSS, and JavaScript.
@@ -22,7 +22,7 @@ Additionally, working on this project has improved my editing skills with tools 
   <li>Contact form</li>
 </ul>
 
-## <span style="color: #27ae60;">Glimpse of My Website</span>
+## <span style="color:  rgb(58 122 147);">Glimpse of My Website</span>
 <p style="font-size: 18px;">Here are a few highlights from my website:</p>
 <ul style="list-style-type: square;">
   <li> Home Page:</li>
@@ -67,7 +67,7 @@ Additionally, working on this project has improved my editing skills with tools 
 
 </ul>
 
-## <span style="color: #8e44ad;">Installation</span>
+## <span style="color: rgb(58 122 147);">Installation</span>
 
 To view the website locally, follow these steps:
 
@@ -85,7 +85,7 @@ To view the website locally, follow these steps:
 
 3. Open the `index.html` file in your web browser to view the site.
 
-## <span style="color: #f39c12;">Usage</span>
+## <span style="color:  rgb(58 122 147);">Usage</span>
 
 To make changes to the website:
 
@@ -93,7 +93,7 @@ To make changes to the website:
 - Update the CSS files in the `css` directory for styling changes.
 - Edit the JavaScript files in the `js` directory for interactive elements.
 
-## <span style="color: #3498db;">Contributing</span>
+## <span style="color: rgb(58 122 147);">Contributing</span>
 
 We welcome contributions! If you want to contribute to this project, please follow these steps:
 

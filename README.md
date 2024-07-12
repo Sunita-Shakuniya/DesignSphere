@@ -27,7 +27,7 @@ Additionally, working on this project has improved my editing skills with tools 
 <ul style="list-style-type: square;">
   <li> Home Page:</li>
     <p> Features an engaging introduction and navigation links to different sections.</p>
-    <p align="center" width="400">
+    <p align="center" width="70%">
     <img src="https://raw.githubusercontent.com/Sunita-Shakuniya/DesignSphere/main/Homepage.png" alt="Home page SS" width="200">
     </p>
 

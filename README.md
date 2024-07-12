@@ -22,6 +22,15 @@ Additionally, working on this project has improved my editing skills with tools 
   <li>Contact form</li>
 </ul>
 
+## <span style="color: #27ae60;">Glimpse of My Website</span>
+<p style="font-size: 18px;">Here are a few highlights from my website:</p>
+<ul style="list-style-type: square;">
+  <li> Home Page:</li><p> Features an engaging introduction and navigation links to different sections.</p>
+  <li>About Us: </li><p>Showcases my graphic design and web development projects with detailed descriptions and images.</p>
+  <li>Projects:</li><p>Showcases my graphic design and web development projects with detailed descriptions and images.</p>
+  <li>Contact form:</li><p>Provides a form for visitors to get in touch with me directly.</p>
+</ul>
+
 ## <span style="color: #8e44ad;">Installation</span>
 
 To view the website locally, follow these steps:

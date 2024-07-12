@@ -1,7 +1,7 @@
 # <span style="color: #2c3e50;">Design Sphere : Interior Design Company Website</span>
 
 <p align="center">
-  <img src="https://example.com/logo.png" alt="Portfolio Logo" width="200">
+  <img src="https://github.com/Sunita-Shakuniya/DesignSphere/blob/main/logo-design_666180-100.png?raw=true" alt="Portfolio Logo" width="200">
 </p>
 
 ## <span style="color: #27ae60;">Introduction</span>

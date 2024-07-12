@@ -7,16 +7,19 @@
 ## <span style="color: #27ae60;">Introduction</span>
 
 <p style="font-size: 18px;">
-  Welcome to my portfolio website. This site showcases my work, projects, and skills in graphic design and web development. It's built with simple HTML, CSS, and JavaScript to provide a clean and responsive design.
+ Welcome to my first web development portfolio project! I have designed a simple, easy-to-navigate webpage with the end user in mind, ensuring it is user-friendly. This project showcases my work, projects, and skills in graphic design and web development that I developed during the creation of this website. It is built using HTML, CSS, and JavaScript.
+
+Additionally, working on this project has improved my editing skills with tools like Canva and Pixlr, enhancing the visual appeal and overall quality of the content.
+
 </p>
 
-## <span style="color: #e74c3c;">Features</span>
+## <span style="color: rgb(58 122 147);">Key Features</span>
 
 <ul style="list-style-type: square;">
-  <li><img src="https://example.com/icon1.png" width="20" height="20"> Responsive layout</li>
-  <li><img src="https://example.com/icon2.png" width="20" height="20"> Interactive elements</li>
-  <li><img src="https://example.com/icon3.png" width="20" height="20"> Portfolio gallery</li>
-  <li><img src="https://example.com/icon4.png" width="20" height="20"> Contact form</li>
+  <li> Responsive layout</li>
+  <li>Interactive elements</li>
+  <li>Project:gallery</li>
+  <li>Contact form</li>
 </ul>
 
 ## <span style="color: #8e44ad;">Installation</span>
@@ -26,13 +29,13 @@ To view the website locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/Sunita-Shakuniya/DesignSphere.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd portfolio-website
+    cd DesignSphere
     ```
 
 3. Open the `index.html` file in your web browser to view the site.
